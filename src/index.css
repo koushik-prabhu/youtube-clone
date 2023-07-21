@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.search-bar{
+    border:none;
+    margin-left: 5px;
+    padding: 5px 20px;
+    font-size: 14px;
+    outline:none;
+}
